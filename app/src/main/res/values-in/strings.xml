@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Filmku Akhir</string>
+    <string name="menu_home">Beranda</string>
+    <string name="menu_gallery">Rekomendasi Film</string>
+    <string name="menu_tools">Pengaturan</string>
+    <string name="menu_share">Tentang</string>
+    <string name="title_movie">Judul Film</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Acara Tv</string>
+
+    <!--===-->
+    <string name="more_info">Selengkap</string>
+    <string name="description">Deskripsi</string>
+    <string name="date_release">Tanggal Rilis</string>
+    <string name="image">gambar</string>
+    <string name="language">Bahasa</string>
+    <string name="play_trailer">Putar Cuplikan</string>
+    <string name="synopsis">Alur Singkat</string>
+    <string name="popularity">Kepopuleran</string>
+    <string name="vote_count">Perhitungan Suara</string>
+    <string name="recomendation">Rekomendasi</string>
+    <string name="gonisetiawan0_gmail_com">gonisetiawan0@gmail.com</string>
+    <string name="budi_setiawan">Budi Setiawan</string>
+    <string name="about">Tentang</string>
+    <string name="favorite">Favorit</string>
+    <string name="settings">Pengaturan</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="change">Ubah</string>
+    <string name="note">Catatan :</string>
+    <string name="dicoding_made_member">Anggota Dicoding MADE</string>
+    <string name="desNote">Terimakasih banyak Dicoding atas ilmunya yang sangat menyenangkan aku jadi bisa menghabiskan waktu libur semesterku dengan kegiatan belajar android. Tidak ada tempat belajar online yang serasa private kalau bukan di Dicoding dan terbukti from ZERO to HERO.</string>
+    <string name="mahasiswa">Mahasiswa</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="status">Kedudukan</string>
+    <string name="fisika">Fisika</string>
+    <string name="favorit">Favorit</string>
+    <string name="message">Daftar film favorit kosong</string>
+    <string name="message_tv">Daftar acara tv favorit kosong</string>
+    <string name="movies_detail">Detail Film</string>
+    <string name="tvshow_detail">Detail Acara Tv</string>
+    <string name="daily_reminder">Pengingat harian</string>
+    <string name="release_today_reminder">Pengingat rilis harian</string>
+    <string name="message_daily">Apakah kamu merindukanku?</string>
+    <string name="release_reminder">Pengingat rilis</string>
+    <string name="favorite_widget">Film Favorit</string>
+    <string name="widget">widget</string>
+    <string name="empty_content">Konten kosong</string>
+    <string name="search">Cari</string>
+    <string name="remove">Hapus dari favorit</string>
+    <string name="add">Tambahkan ke favorit</string>
+</resources>

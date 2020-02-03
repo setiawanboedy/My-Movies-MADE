@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Movies Final</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Movie Recommendation</string>
+    <string name="menu_tools">Settings</string>
+    <string name="menu_share">About</string>
+    <string name="title_movie">Title Movie</string>
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">Tv Show</string>
+
+    <!--===-->
+    <string name="more_info">More Info</string>
+    <string name="description">Description</string>
+    <string name="date_release">Date Release</string>
+    <string name="image">Image</string>
+    <string name="language">Language</string>
+    <string name="play_trailer">Play Trailer</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="popularity">Popularity</string>
+    <string name="vote_count">Vote Count</string>
+    <string name="recomendation">Recomendation</string>
+    <string name="gonisetiawan0_gmail_com">gonisetiawan0@gmail.com</string>
+    <string name="budi_setiawan">Budi Setiawan</string>
+    <string name="about">About</string>
+    <string name="favorite">Favorite</string>
+    <string name="settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="change">Change</string>
+    <string name="desNote">Thank you very much Dicoding for the knowledge that was very fun so I could spend my semester break with android learning activities. There is no place for online learning that feels private if not in Dicoding and proven from ZERO to HERO.</string>
+    <string name="note">Note :</string>
+    <string name="dicoding_made_member">Dicoding MADE Member</string>
+    <string name="mahasiswa">College Student</string>
+    <string name="status">Status</string>
+    <string name="jurusan">Major</string>
+    <string name="fisika">Pure Physics</string>
+    <string name="favorit">Favorite</string>
+    <string name="message">Favorite movie list is empty</string>
+    <string name="message_tv">Favorite tv show list is empty</string>
+    <string name="movies_detail">Movies Detail</string>
+    <string name="tvshow_detail">Tv Show Details</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="release_today_reminder">Release Today Reminder</string>
+    <string name="message_daily">Did you miss me?</string>
+    <string name="release_reminder">Release Reminder</string>
+    <string name="favorite_widget">Movies Favorite</string>
+    <string name="widget">widget</string>
+    <string name="empty_content">Empty Content</string>
+    <string name="search">Search</string>
+    <string name="remove">Remove from favorite</string>
+    <string name="add">Add to favorite</string>
+</resources>

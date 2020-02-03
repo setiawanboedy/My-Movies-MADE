@@ -1,0 +1,2 @@
+include ':app', ':myfavoritemovie'
+rootProject.name='My Film Final'

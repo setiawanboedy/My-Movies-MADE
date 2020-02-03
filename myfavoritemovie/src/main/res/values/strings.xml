@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Favorite Movies Final</string>
+
+    <string name="title_movie">Title Movie</string>
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">Tv Show</string>
+
+    <!--===-->
+    <string name="more_info">More Info</string>
+    <string name="description">Description</string>
+    <string name="date_release">Date Release</string>
+    <string name="image">Image</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <!--===-->
+
+</resources>
