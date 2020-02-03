@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#CE203DD1</color>
+    <color name="colorPrimaryDark">#36203DD1</color>
+    <color name="background">#77203DD1</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="putih">#9E9D9D</color>
+    <color name="deskripsi">#5F5C5C</color>
+    <color name="namafilm">#000</color>
+</resources>
