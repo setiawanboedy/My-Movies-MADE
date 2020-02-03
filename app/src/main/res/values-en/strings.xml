@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Movies API</string>
+
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">Tv Show</string>
+
+    <!--===-->
+    <string name="more_info">More Info</string>
+    <string name="description">Description</string>
+    <string name="date_release">Date Release</string>
+    <string name="title_movie">Movie Title</string>
+    <string name="image">Image</string>
+    <string name="language_setting">Language Setting</string>
+    <string name="language">Language</string>
+    <string name="play_trailer">Play Trailer</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="popularity">Popularity</string>
+    <string name="vote_count">Vote Count</string>
+    <string name="recomendation">Recomendation</string>
+    <!--===-->
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Filmku API</string>
+
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Acara Tv</string>
+
+    <!-- == -->
+    <string name="more_info">Info Lengkap</string>
+    <string name="description">Deskripsi</string>
+    <string name="date_release">Tanggal Rilis</string>
+    <string name="title_movie">Judul Film</string>
+    <string name="image">Image</string>
+    <string name="language_setting">Pengaturan Bahasa</string>
+    <string name="language">Bahasa</string>
+    <string name="play_trailer">Mainkan Cuplikan</string>
+    <string name="synopsis">Alur Singkat</string>
+    <string name="popularity">Kepopuleran</string>
+    <string name="vote_count">Perhitungan Suara</string>
+    <string name="recomendation">Rekomendasi</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="100dp"
+    android:layout_height="140dp"
+    app:cardBackgroundColor="#fff"
+    app:cardCornerRadius="5dp"
+    android:layout_margin="5dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+        <ImageView
+            android:id="@+id/img_recomend"
+            android:layout_width="100dp"
+            android:scaleType="centerCrop"
+            android:layout_height="120dp"
+            android:contentDescription="@string/image"
+            android:background="@color/tabLayout"/>
+        <TextView
+            android:id="@+id/tv_titlerecomend"
+            android:textSize="12sp"
+            android:lines="1"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:layout_gravity="bottom"
+            android:textAlignment="center"
+            android:text="@string/title_movie"/>
+
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_gravity="center"/>
+
+</androidx.cardview.widget.CardView>
